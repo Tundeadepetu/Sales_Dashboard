@@ -1,15 +1,19 @@
-/*body {
-}*/
-
-/*.dashBack{
-}*/
 
 .dashColor {
   background-color: #242424;
   height: 620px;
-  width: 1300px;
-  border-radius: 10px;
+  width: 1000px;
+  border-radius: 30px;
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.leftnav {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  display: block;
+  width: 100px;
+  height: 100%;
+  background-color: #161717;
 }
