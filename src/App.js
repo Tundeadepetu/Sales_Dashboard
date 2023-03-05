@@ -1,13 +1,14 @@
 import './App.css';
 import NavBar from './Navbar';
+import { Fragment } from 'react';
 
 function App() {
   return (
-    <div>
+    <Fragment>
       <div className='dashColor'>
         <NavBar/>
       </div>
-    </div>
+    </Fragment>
   );
 }
 
